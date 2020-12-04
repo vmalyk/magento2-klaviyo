@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### [2.2.0] - 2021-04-21
 
 #### Added
+
 - OAuth observer to create Magento2 Integration OAuth configuration
 
 ### [2.1.1] - 2021-05-17
